@@ -1,0 +1,22 @@
+[
+  {"id": "returns-window", "title": "30-day returns", "body": "Northline accepts returns within 30 days of delivery when the item is unworn and the customer provides an order number. Refunds go back to the original payment method."},
+  {"id": "returns-damaged", "title": "Damaged item replacement", "body": "If a Northline item arrives damaged, send a photo of the damage and the order number. Northline ships a replacement or issues a refund and waives the return shipping fee."},
+  {"id": "shipping-times", "title": "Shipping speed", "body": "Standard Northline shipping takes 5 to 7 business days. Expedited shipping takes 2 business days. Shipping time starts the day after the order leaves the warehouse."},
+  {"id": "shipping-tracking", "title": "Tracking an order", "body": "A Northline tracking link is sent in the shipment email and is also listed on the account orders page once the carrier scans the package."},
+  {"id": "order-cancel", "title": "Canceling an order", "body": "A Northline order can be canceled only while its status is still Processing. After the status changes to Shipped, the customer uses the return process instead of cancellation."},
+  {"id": "order-address", "title": "Changing a shipping address", "body": "Northline can change a shipping address only before the warehouse marks the order Shipped. After that, the carrier must be contacted with the tracking number."},
+  {"id": "billing-descriptor", "title": "Statement charge name", "body": "A pending Northline card charge may appear as NORTHLINE*OUTFITTERS. The pending hold drops off after the order ships and the final charge posts."},
+  {"id": "billing-refund", "title": "Refund timing", "body": "After the warehouse receives a Northline return, the refund posts to the original payment method in 5 to 7 business days."},
+  {"id": "warranty-gear", "title": "Gear warranty", "body": "Northline packs have a lifetime warranty on seams. Headlamps and other electronics have a 1-year warranty. Warranty claims need the order number and a short description of the failure."},
+  {"id": "password-reset", "title": "Password reset", "body": "Northline password reset links are sent from the sign-in page and expire after 30 minutes. Each new request invalidates the previous link."},
+  {"id": "store-hours", "title": "Store hours", "body": "Northline stores are open from 10am to 7pm local time. Stores are closed on Thanksgiving and Christmas Day."},
+  {"id": "gift-card", "title": "Gift cards", "body": "Northline gift cards do not expire. Gift cards cannot be redeemed for cash and cannot be used to buy another gift card."},
+  {"id": "size-exchange", "title": "Size exchange", "body": "Northline offers one free size exchange per item within 30 days of delivery. The replacement ships after the original size is scanned back at the warehouse."},
+  {"id": "international", "title": "Where Northline ships", "body": "Northline ships online orders only to addresses in the United States and Canada. It does not ship to other international addresses."},
+  {"id": "promo-code", "title": "Promo codes", "body": "A Northline order accepts one promo code. Promo codes cannot be combined with items already marked as a sale price."},
+  {"id": "care-down", "title": "Washing a down jacket", "body": "Wash a Northline down jacket cold on the gentle cycle and tumble dry on low heat with clean tennis balls so the down refluffs."},
+  {"id": "care-boots", "title": "Drying leather boots", "body": "Dry Northline leather boots at room temperature. Do not put them on a radiator. Condition the leather twice a season."},
+  {"id": "membership", "title": "Trail membership shipping", "body": "Northline Trail members receive free standard shipping on orders over $50. Expedited shipping is still charged."},
+  {"id": "privacy-account", "title": "Account data", "body": "Northline uses account data to fulfill orders and answer support requests. Customers can delete an account in settings. Northline does not sell personal information."},
+  {"id": "wholesale", "title": "Wholesale inquiries", "body": "Northline wholesale requests, including retailer accounts and bulk pricing, go to wholesale@northline.example. Retail order support cannot open a wholesale account."}
+]
